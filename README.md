@@ -9,6 +9,13 @@ This smart system enables continuous tracking, historical logging, and analysis 
 
 ---
 
+## 🏗 Project Architecture
+
+The architecture of the Smart Water Quality Monitoring System is shown below:
+
+![Project Architecture](ProjectArchitecture.png)
+
+---
 ## ⚙️ Purpose
 The purpose of this project is to **assess water quality intelligently and efficiently** without the need for complex lab analysis.  
 The system allows users to:
