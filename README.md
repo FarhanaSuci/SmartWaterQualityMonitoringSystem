@@ -14,6 +14,13 @@ This smart system enables continuous tracking, historical logging, and analysis 
 The architecture of the Smart Water Quality Monitoring System is shown below:
 
 ![Project Architecture](ProjectArchitecture.png)
+---
+
+## 🎬 Project Video
+
+Watch the demonstration video of the Smart Water Quality Monitoring System:  
+[Project Video](Project-Video.mp4)
+
 
 ---
 ## ⚙️ Purpose
