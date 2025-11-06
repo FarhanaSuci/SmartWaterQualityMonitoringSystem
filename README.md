@@ -19,7 +19,7 @@ The architecture of the Smart Water Quality Monitoring System is shown below:
 ## 🎬 Project Video
 
 Watch the demonstration video of the Smart Water Quality Monitoring System:  
-[Project Video](Project-Video.mp4)
+[Project Video](https://github.com/FarhanaSuci/SmartWaterQualityMonitoringSystem/blob/main/SmartWaterQualityMonitoringSystem.mp4)
 
 
 ---
