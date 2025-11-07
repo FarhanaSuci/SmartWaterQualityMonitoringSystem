@@ -56,6 +56,9 @@ The system allows users to:
 
 This combination enables **instant assessment of water quality** without the need for additional devices or laboratory analysis.
 
+
+## To explore full project , please check the Project Video
+
  
 
 
